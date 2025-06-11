@@ -1,0 +1,7 @@
+PROGRAM P IS
+    INSTRUCTION spin
+        turnleft
+    END spin
+BEGIN
+    spin
+END P

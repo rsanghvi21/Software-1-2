@@ -1,0 +1,7 @@
+
+IF next-is-enemy THEN
+  	infect
+	move
+	turnup	
+ELSE
+END IF

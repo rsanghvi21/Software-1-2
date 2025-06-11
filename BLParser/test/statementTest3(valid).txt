@@ -1,0 +1,17 @@
+move
+WHILE next-is-empty DO
+    turnleft
+    IF next-is-not-empty THEN
+        move
+	turnaround
+	moveup
+    ELSE
+        infect
+	wrist
+	wasted
+    END IF
+END WHILE
+turnright
+turnlight
+
+

@@ -1,0 +1,6 @@
+123Gotoschool
+IF next-is-enemy THEN
+  	infect
+	move
+	turnup	
+END IF

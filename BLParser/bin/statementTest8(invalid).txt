@@ -1,0 +1,15 @@
+WHILE next-is-empty DO
+  scan-area
+  IF random THEN
+    turnright
+  END IF
+  IF next-is-enemy THEN
+    charge
+    infect
+  ELSE
+    turnleft
+    wait
+    regroup
+  END if
+  skip
+END WHILE

@@ -1,0 +1,6 @@
+PROGRAM P IS
+BEGIN
+    WHILE DO next-is-empty
+        move
+    END WHILE
+END P
