@@ -1,0 +1,11 @@
+apple
+A sweet fruit that grows on trees.
+It is commonly red, green, or yellow in color.
+
+banana
+A long, yellow fruit that is high in potassium.
+Bananas are often eaten as a snack or used in desserts.
+
+cherry
+A small, round fruit that is typically red or black.
+Cherries are often used in pies, jams, and cocktails.
